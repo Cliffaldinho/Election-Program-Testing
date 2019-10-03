@@ -1,0 +1,10 @@
+FPTP
+a b c
+a
+a
+a
+b
+b
+d
+h
+g
